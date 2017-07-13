@@ -1,0 +1,103 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Polish language for 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-zippyshare-embed\n"
+"POT-Creation-Date: 2016-08-18 19:14+0200\n"
+"PO-Revision-Date: 2016-08-18 19:15+0200\n"
+"Last-Translator: Adam Stachowicz <saibamenppl@gmail.com>\n"
+"Language-Team: Simple Zippyshare Embed <saibamenppl@gmail.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: zippy-embed.php:148
+msgid "Colors must be in HTML (HEX) format"
+msgstr "Kolory muszą być w formacie HTML (HEX)"
+
+#: zippy-embed.php:159
+msgid "Download Button"
+msgstr "Przycisk pobierania"
+
+#: zippy-embed.php:161
+msgid "None"
+msgstr "Brak"
+
+#: zippy-embed.php:162
+msgid "Above"
+msgstr "Nad"
+
+#: zippy-embed.php:163
+msgid "Under"
+msgstr "Pod"
+
+#: zippy-embed.php:168
+msgid "Default volume"
+msgstr "Domyślna głośność"
+
+#: zippy-embed.php:173
+msgid "Autoplay"
+msgstr "Automatyczne odtwarzanie"
+
+#: zippy-embed.php:178
+msgid "Width"
+msgstr "Długość"
+
+#: zippy-embed.php:183
+msgid "Text and Waveform Progress Color"
+msgstr "Kolor tekstu i wczytywania fali"
+
+#: zippy-embed.php:184 zippy-embed.php:189 zippy-embed.php:194
+#: zippy-embed.php:199 zippy-embed.php:204
+msgid "4 characters minimum"
+msgstr "Minimum 4 znaki"
+
+#: zippy-embed.php:188
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: zippy-embed.php:193
+msgid "Play and Full Waveform Color"
+msgstr "Kolor przycisku Play i pełnej fali"
+
+#: zippy-embed.php:198
+msgid "Waveform Color"
+msgstr "Kolor fali"
+
+#: zippy-embed.php:203
+msgid "Border Color"
+msgstr "Kolor obramowania"
+
+#: zippy-embed.php:218
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: zippy-embed.php:223
+msgid "Plugin by"
+msgstr "Autor pluginu:"
+
+#: zippy-embed.php:243
+msgid "Zippyshare Profile Widget"
+msgstr "Widget Profil Zippyshare"
+
+#: zippy-embed.php:260
+msgid "Title"
+msgstr "Tytuł"
+
+#: zippy-embed.php:265
+msgid "Zippyshare Profile URL:"
+msgstr "Link do profilu Zippyshare:"
+
+#: zippy-embed.php:315
+msgid "Total Previews:"
+msgstr "Liczba odtworzeń:"
+
+#: zippy-embed.php:316
+msgid "Total Downloads:"
+msgstr "Liczba pobrań:"
